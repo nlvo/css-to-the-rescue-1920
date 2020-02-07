@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="42px" viewBox="0 0 42 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>moon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-415.000000, -120.000000)" fill="#F4FCFB">
+            <path d="M431.806045,124.936776 C431.806045,136.490932 441.259446,145.944332 452.813602,145.944332 C454.074055,145.944332 455.229471,145.839295 456.384887,145.629219 C454.179093,154.872544 445.881108,161.7 436.007557,161.7 C424.453401,161.7 415,152.246599 415,140.692443 C415,130.293703 422.56272,121.680605 432.436272,120 C432.016121,121.575567 431.806045,123.256171 431.806045,124.936776 Z" id="moon"></path>
+        </g>
+    </g>
+</svg>
