@@ -1,49 +1,33 @@
-# CSS to the Rescue @cmda-minor-web 19-20
+# Pear
+![computer-mockup](https://user-images.githubusercontent.com/8554238/75493374-03c12480-59ba-11ea-91cd-a4ba650ab9ba.jpg)
+[Live](https://nlvo.github.io/css-to-the-rescue-1920/)
 
-_This course is in English_
+## Description
+The concept behind this project for CSS to the rescue was an computer with a Pear OS. Which has been infected with a 'virus' and all the windows/programs act weird.
 
-In this three week course you are going to create an innovative, experimantal, yet pleasurable user experience by using CSS and SVG. No Javascrpt allowed.
+There where a few requirements for this project. We had to choose an asignment, a context, 2 restrictions and last but not least work with a so cald selector First CSS Methodology.
 
-## Learning goals
-- _You understand the broader scope of CSS: You can show that CSS can be used for more than just styling web pages._
-- _You understand the progressive enhancement parts of CSS: You can show that you can use the cascade, inheritance and specificity in your project_
-- _You understand the interactive parts of CSS: Is the UX fully enhanced within in given CSS scope?_
-- _You have been experimenting: Have the learning goals been stretched?_
+## context
+* dark-mode
 
-[Rubric](https://docs.google.com/spreadsheets/d/1Xv48MSiACNmnM6nXpGGUb8mJDC459uSaxJszO_zLEp8/edit?usp=sharing)
+### restrictions
+* When SVG meets CSS: Shapes / Masks / SVG
+* Design must be visually appealing and it must meet Level AAA conformance of the WCAG.
 
-## Programm
+## Learned (reflection)
+After more than 6 months of barely touching code, there were certainly things I've had forgotten about or didn't even know about. I might have heard about it, but never actually tried it myself. Looking back at this project, I realized that Level AAA isn't made for illustrations and is quite difficult. Nonetheless is was fun trying it out, but bit frustrating as well.
 
-### Week 1 - 👁 C what you did there
+* SVG
+* animations
+* dark/light theme
+* selectors 
+  * +, ~, <
+  * :target
+* checkboxes
+* mix-blend-mode (so fun, definitly going to try more stuff)
+* filter
 
-[See all the details of week 1 here](week1/).
-
-Goals of this week: 
-
-- Be inspired
-- Discuss hot CSS topics.
-- Get going!
-
-<!-- [Opdrachten](https://drive.google.com/open?id=1OVhWQNaCgSluYviTKKWcApkyPd23xow1PiExb8GYANM) -->
-
-<!-- [Slides](https://drive.google.com/open?id=1Rjl9xqXoKniQSRJPdkU1O5YwWC33SJK8KiV0a-H_xZU) -->
-
-### Week 2 - Create Stuff, 🙃 Smile 
-
-This week’s goals: Moar inspiration, create stuff, break stuff, and learn from each other.
-
-<!-- [Opdrachten](https://drive.google.com/open?id=1GMDTdW3LycAYpZSFI6gk_lrKrx8-zLWrNh69aaVEH5Y) -->
-
-<!-- [Slides](https://drive.google.com/open?id=1IqQeu1m0dQiSC_KCvrn8eencAgtYe7X6qT-gm0n9Bmc) -->
-
-### Week 3 - 🎪 Show time
-
-Goals: Blow us away.
-
-<!-- [Opdrachten](https://drive.google.com/open?id=13pKQu72pshaEzKw9q5JHLa-aop85nMP6nDCdqioWjoQ) -->
-
-<!-- [Slides](https://drive.google.com/open?id=1BSzGYNLMgtHD4HRnK7f0DgyTv4Pg3xsQwD_eYNo7v0Y) -->
-
+Overall I feel like I'm back to the code game again, almost..
 
 <!-- Add a link to your live demo in Github Pages 🌐-->
 
