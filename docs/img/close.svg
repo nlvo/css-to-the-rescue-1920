@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="10px" viewBox="0 0 10 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>close</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="window" transform="translate(-377.000000, -7.000000)" fill="#0B0D0E" fill-rule="nonzero">
+            <g id="Group-5">
+                <g transform="translate(337.000000, 4.000000)">
+                    <g id="Group-4" transform="translate(37.000000, 0.000000)">
+                        <path d="M8,2 C8.51283584,2 8.93550716,2.38604019 8.99327227,2.88337887 L9,3 L8.999,7 L13,7 C13.5522847,7 14,7.44771525 14,8 C14,8.51283584 13.6139598,8.93550716 13.1166211,8.99327227 L13,9 L8.999,9 L9,13 C9,13.5522847 8.55228475,14 8,14 C7.48716416,14 7.06449284,13.6139598 7.00672773,13.1166211 L7,13 L6.999,9 L3,9 C2.44771525,9 2,8.55228475 2,8 C2,7.48716416 2.38604019,7.06449284 2.88337887,7.00672773 L3,7 L6.999,7 L7,3 C7,2.44771525 7.44771525,2 8,2 Z" id="close" transform="translate(8.000000, 8.000000) rotate(45.000000) translate(-8.000000, -8.000000) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

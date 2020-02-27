@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="3px" viewBox="0 0 12 3" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>line</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="window" transform="translate(-338.000000, -15.000000)" fill="#22262A" fill-rule="nonzero" stroke="#0B0D0E" stroke-width="2">
+            <g id="Group-5">
+                <g transform="translate(337.000000, 4.000000)">
+                    <g id="Group" transform="translate(0.000000, 1.000000)">
+                        <line x1="2.5" y1="11.5" x2="11.5" y2="11.5" id="line"></line>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
